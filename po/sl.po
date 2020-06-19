@@ -1,13 +1,13 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
 #
-# Nejc Bertoncelj <nbert@siol.net>, 2020.
+# Nejc Bertoncelj <nejc@bertoncelj.eu.org>, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-06-07 12:15+0200\n"
-"PO-Revision-Date: 2020-06-19 15:09+0200\n"
+"PO-Revision-Date: 2020-06-19 16:56+0200\n"
 "Last-Translator: Nejc Bertoncelj <nejc@bertoncelj.eu.org>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
 "Language: sl\n"
@@ -296,15 +296,15 @@ msgstr "Prva vrstica s podatki za uvoz v datoteko"
 
 #: ../data/csvimport.ui.h:21
 msgid "Includes headings"
-msgstr "Doda naslove"
+msgstr "Dodaj naslove"
 
 #: ../data/csvimport.ui.h:22
 msgid "If the first row contains column headings"
-msgstr ""
+msgstr "Naj prva vrstica vsebuje naslove stolpcev"
 
 #: ../data/csvimport.ui.h:24
 msgid "Delimiter used to separate columns in the file"
-msgstr ""
+msgstr "Ločilnik za stolpce v datoteki"
 
 #: ../data/csvimport.ui.h:30
 msgid "Custom delimiter"
@@ -312,239 +312,239 @@ msgstr "Ločilnik po meri"
 
 #: ../data/datasetedit.ui.h:1
 msgid "Edit Data Property"
-msgstr ""
+msgstr "Uredi lastnost podatka"
 
 #: ../data/datasetedit.ui.h:3
 msgid "Do not create/modify this data set"
-msgstr ""
+msgstr "Ne ustvari/uredi tega podatkovnega nabora"
 
 #: ../data/datasetedit.ui.h:5
 msgid "Accept the creation/modification of this data set"
-msgstr ""
+msgstr "Sprejmi izdelavo/urejevanje tega podatkovnega nabora"
 
 #: ../data/datasetedit.ui.h:7
 msgid "Name used for reference"
-msgstr ""
+msgstr "Ime, uporabljeno za sklic"
 
 #: ../data/datasetedit.ui.h:8 ../data/functionedit.ui.h:9
 #: ../data/matrixedit.ui.h:10 ../data/unitedit.ui.h:9
 #: ../data/unknownedit.ui.h:9 ../data/variableedit.ui.h:8
 msgid "Names Details"
-msgstr ""
+msgstr "Podrobnosti imen"
 
 #: ../data/datasetedit.ui.h:10
 msgid "Title displayed in menus and in data set manager"
-msgstr ""
+msgstr "Naslov, prikazan v menijih in upravljalniku podatkovnih naborov"
 
 #: ../data/datasetedit.ui.h:11 ../data/functionedit.ui.h:15
 msgid "Description"
-msgstr ""
+msgstr "Opis"
 
 #: ../data/datasetedit.ui.h:12
 msgid "Description of this data property"
-msgstr ""
+msgstr "Opis lastnosti podatka"
 
 #: ../data/datasetedit.ui.h:13
 msgid "Value Type"
-msgstr ""
+msgstr "Vrsta vrednosti"
 
 #: ../data/datasetedit.ui.h:14 ../data/functionedit.ui.h:30
 #: ../data/main.ui.h:213 ../src/callbacks.cc:21789
 msgid "Text"
-msgstr ""
+msgstr "Besedilo"
 
 #: ../data/datasetedit.ui.h:15 ../data/functionedit.ui.h:27 ../data/main.ui.h:7
 #: ../data/unknownedit.ui.h:12
 msgid "Number"
-msgstr ""
+msgstr "Številka"
 
 #: ../data/datasetedit.ui.h:16 ../data/functionedit.ui.h:18 ../data/plot.ui.h:8
 #: ../data/simplefunctionedit.ui.h:8 ../src/interface.cc:2169
 #: ../src/interface.cc:3047
 msgid "Expression"
-msgstr ""
+msgstr "Izraz"
 
 #: ../data/datasetedit.ui.h:17
 msgid "Hide"
-msgstr ""
+msgstr "Skrij"
 
 #: ../data/datasetedit.ui.h:18
 msgid "Use as key"
-msgstr ""
+msgstr "Uporabi kot ključ"
 
 #: ../data/datasetedit.ui.h:19
 msgid "Approximate value"
-msgstr ""
+msgstr "Približna vrednost"
 
 #: ../data/datasetedit.ui.h:20
 msgid "Case sensitive value"
-msgstr ""
+msgstr "Vrednost, občutljiva na velikost črk"
 
 #: ../data/datasetedit.ui.h:21
 msgid "Value uses brackets"
-msgstr ""
+msgstr "Vrednost uporablja oklepaje"
 
 #: ../data/datasetedit.ui.h:22 ../data/main.ui.h:240
 msgid "Unit expression"
-msgstr ""
+msgstr "Izraz enote"
 
 #: ../data/datasetedit.ui.h:23 ../src/callbacks.cc:14251
 msgid "Edit Data Set"
-msgstr ""
+msgstr "Uredi podatkovni nabor"
 
 #: ../data/datasetedit.ui.h:24 ../data/plot.ui.h:7 ../src/interface.cc:2393
 #: ../src/interface.cc:3044
 msgid "Title"
-msgstr ""
+msgstr "Naslov"
 
 #: ../data/datasetedit.ui.h:25
 msgid "Data file"
-msgstr ""
+msgstr "Podatkovna datoteka"
 
 #: ../data/datasetedit.ui.h:26
 msgid "Description of this data set"
-msgstr ""
+msgstr "Opis podatkovnega nabora"
 
 #: ../data/datasetedit.ui.h:27
 msgid "Copyright"
-msgstr ""
+msgstr "Copyright"
 
 #: ../data/datasetedit.ui.h:28 ../data/functionedit.ui.h:17
 #: ../data/preferences.ui.h:32
 msgid "General"
-msgstr ""
+msgstr "Splošno"
 
 #: ../data/datasetedit.ui.h:29
 msgid "Properties:"
-msgstr ""
+msgstr "Lastnosti:"
 
 #: ../data/datasetedit.ui.h:30
 msgid "Definition of the properties of this data set"
-msgstr ""
+msgstr "Definicija lastnosti podatkovnega nabora"
 
 #: ../data/datasetedit.ui.h:31 ../data/functions.ui.h:3 ../data/main.ui.h:18
 #: ../data/units.ui.h:3 ../data/variables.ui.h:3
 msgid "_New"
-msgstr ""
+msgstr "_Novo"
 
 #: ../data/datasetedit.ui.h:32 ../data/functions.ui.h:5 ../data/main.ui.h:44
 #: ../data/shortcuts.ui.h:5 ../data/units.ui.h:5 ../data/variables.ui.h:5
 msgid "_Edit"
-msgstr ""
+msgstr "_Uredi"
 
 #: ../data/datasetedit.ui.h:33 ../data/functionedit.ui.h:53
 #: ../data/functions.ui.h:9 ../data/units.ui.h:11 ../data/variables.ui.h:9
 #: ../src/callbacks.cc:15987
 msgid "_Delete"
-msgstr ""
+msgstr "_Izbriši"
 
 #: ../data/datasetedit.ui.h:34 ../src/callbacks.cc:3976
 #: ../src/callbacks.cc:5011
 msgid "Properties"
-msgstr ""
+msgstr "Lastnosti"
 
 #: ../data/datasetedit.ui.h:35
 msgid "Name used to invoke the function in expressions"
-msgstr ""
+msgstr "Ime za klic funkcije v izrazih"
 
 #: ../data/datasetedit.ui.h:36
 msgid "Object argument name"
-msgstr ""
+msgstr "Ime objekta argumenta"
 
 #: ../data/datasetedit.ui.h:37
 msgid "Property argument name"
-msgstr ""
+msgstr "Ime lastnosti argumenta"
 
 #: ../data/datasetedit.ui.h:38
 msgid "Default property"
-msgstr ""
+msgstr "Privzeta lastnost"
 
 #: ../data/datasetedit.ui.h:39 ../data/functionedit.ui.h:42
 #: ../data/main.ui.h:23 ../data/plot.ui.h:9 ../src/interface.cc:1696
 msgid "Function"
-msgstr ""
+msgstr "Funkcija"
 
 #: ../data/datasets.ui.h:1 ../src/callbacks.cc:13977
 msgid "Edit Data Object"
-msgstr ""
+msgstr "Uredi podatkovni objekt"
 
 #: ../data/datasets.ui.h:3
 msgid "Do not create/modify this data object"
-msgstr ""
+msgstr "Ne ustvari/uredi tega podatkovnega objekta"
 
 #: ../data/datasets.ui.h:5
 msgid "Accept the creation/modification of this data object"
-msgstr ""
+msgstr "Sprejmi izdelavo/urejevanje tega podatkovnega objekta"
 
 #. new dataset
 #: ../data/datasets.ui.h:6 ../src/callbacks.cc:14347
 msgid "Data Sets"
-msgstr ""
+msgstr "Podatkovni nabori"
 
 #: ../data/datasets.ui.h:8 ../data/main.ui.h:25 ../src/interface.cc:1919
 msgid "Data Set"
-msgstr ""
+msgstr "Podatkovni nabor"
 
 #: ../data/datasets.ui.h:9
 msgid "Create a new data set"
-msgstr ""
+msgstr "Ustvari nov podatkovni nabor"
 
 #: ../data/datasets.ui.h:10
 msgid "Edit the selected data set"
-msgstr ""
+msgstr "Uredi izbran podatkovni nabor"
 
 #: ../data/datasets.ui.h:11
 msgid "Delete the selected data set"
-msgstr ""
+msgstr "Izbriši izbran podatkovni nabor"
 
 #: ../data/datasets.ui.h:12
 msgid "Objects"
-msgstr ""
+msgstr "Objekti"
 
 #: ../data/datasets.ui.h:13
 msgid "Create a new data object"
-msgstr ""
+msgstr "Ustvari nov podatkovni objekt"
 
 #: ../data/datasets.ui.h:14
 msgid "Edit the selected data object"
-msgstr ""
+msgstr "Uredi izbran podatkovni objekt"
 
 #: ../data/datasets.ui.h:15
 msgid "Remove the selected data object"
-msgstr ""
+msgstr "Odstrani izbran podatkovni objekt"
 
 #: ../data/datasets.ui.h:16
 msgid "Data Set Description"
-msgstr ""
+msgstr "Opis podatkovnega nabora"
 
 #: ../data/datasets.ui.h:17
 msgid "Object Attributes"
-msgstr ""
+msgstr "Atributi objekta"
 
 #: ../data/decimals.ui.h:1
 msgid "Decimals"
-msgstr ""
+msgstr "Decimalke"
 
 #: ../data/decimals.ui.h:3 ../data/matrix.ui.h:3 ../data/plot.ui.h:6
 #: ../data/precision.ui.h:3
 msgid "Close this window"
-msgstr ""
+msgstr "Zapri okno"
 
 #: ../data/decimals.ui.h:4
 msgid "Min decimals"
-msgstr ""
+msgstr "Min. decimalke"
 
 #: ../data/decimals.ui.h:5
 msgid "Max decimals"
-msgstr ""
+msgstr "Maks. decimalke"
 
 #: ../data/decimals.ui.h:6
 msgid "Minimal number of displayed decimals"
-msgstr ""
+msgstr "Najmanjše število prikazanih decimalk"
 
 #: ../data/decimals.ui.h:7
 msgid "Maximal number of decimals to display (and round to)"
-msgstr ""
+msgstr "Največje število decimalk za prikaz (in zaokrožitev)"
 
 #: ../data/floatingpoint.ui.h:1
 msgid "Floating Point Conversion"
@@ -584,23 +584,23 @@ msgstr "Oblika"
 
 #: ../data/floatingpoint.ui.h:11
 msgid "16-bit (half precision)"
-msgstr "16-bit (polovična natančnost)"
+msgstr "16-bitno (polovična natančnost)"
 
 #: ../data/floatingpoint.ui.h:12
 msgid "32-bit (single precision)"
-msgstr "32-bit (enojna natančnost)"
+msgstr "32-bitno (enojna natančnost)"
 
 #: ../data/floatingpoint.ui.h:13
 msgid "64-bit (double precision)"
-msgstr "64-bit (dvojna natančnost)"
+msgstr "64-bitno (dvojna natančnost)"
 
 #: ../data/floatingpoint.ui.h:14
 msgid "80-bit (x86 extended format)"
-msgstr "80-bit (razširjena oblika x86)"
+msgstr "80-bitno (razširjena oblika x86)"
 
 #: ../data/floatingpoint.ui.h:15
 msgid "128-bit (quadruple precision)"
-msgstr "128-bit (četvorna natančnost)"
+msgstr "128-bitno (četvorna natančnost)"
 
 #: ../data/floatingpoint.ui.h:16 ../data/nbases.ui.h:12
 msgid "Hexadecimal value"
@@ -631,7 +631,7 @@ msgstr "Ime za klic funkcije v izrazih"
 
 #: ../data/functionedit.ui.h:12
 msgid "Title displayed in menus and in function manager"
-msgstr ""
+msgstr "Naslov, prikazan v menijih in upravljalniku funkcij"
 
 #: ../data/functionedit.ui.h:13
 msgid "Hide function"
@@ -651,7 +651,7 @@ msgid ""
 "For more information click the help button."
 msgstr ""
 "Uporabi \\x za prvi, \\y za drugi in \\z za tretji argument. "
-"Za več informacij kliknite na pomoč."
+"Za več informacij kliknite gumb za pomoč."
 
 #: ../data/functionedit.ui.h:20
 msgid "Condition"
@@ -662,6 +662,8 @@ msgid ""
 "Condition that must be true for the function (e.g. if the second argument "
 "must be greater than the first: \"\\y > \\x\")"
 msgstr ""
+"Pogoj, ki mora biti pravilen za funkcijo (npr. če mora biti drugi argument "
+"večji od prvega: \"\\y > \\x\")"
 
 #: ../data/functionedit.ui.h:22
 msgid "Sub-Functions"
@@ -793,7 +795,7 @@ msgstr "Izračunaj vnaprej"
 
 #: ../data/functionedit.ui.h:60
 msgid "Calculate the subfunction only once, before the parent function"
-msgstr ""
+msgstr "Izračunaj podfunkcijo le enkrat, pred glavno"
 
 #: ../data/functionedit.ui.h:61
 msgid "Add entered subfunction"
@@ -826,7 +828,7 @@ msgstr "_Vnesi"
 
 #: ../data/functions.ui.h:8
 msgid "Insert (or execute) the selected function into the expression entry"
-msgstr ""
+msgstr "Vnesi (ali izvrši) izbrano funkcijo v polje za izraz"
 
 #: ../data/functions.ui.h:10
 msgid "Delete the selected function"
@@ -843,7 +845,7 @@ msgstr "O_nemogoči"
 
 #: ../data/functions.ui.h:14
 msgid "Apply the selected function to the current expression"
-msgstr ""
+msgstr "Uporabi izbrano funkcijo v trenutnem izrazu"
 
 #: ../data/functions.ui.h:15 ../data/units.ui.h:15 ../data/variables.ui.h:14
 msgid "Categor_y"
@@ -983,7 +985,7 @@ msgstr "Periodni sistem"
 
 #: ../data/main.ui.h:42
 msgid "Minimal Window"
-msgstr ""
+msgstr "Majhno okno"
 
 #: ../data/main.ui.h:43
 msgid "_Quit"
@@ -1003,7 +1005,7 @@ msgstr "Upravljaj enote"
 
 #: ../data/main.ui.h:48
 msgid "Manage Data Sets"
-msgstr "Upravljaj nabore podatkov"
+msgstr "Upravljaj podatkovne nabore"
 
 #: ../data/main.ui.h:49 ../src/interface.cc:756 ../src/callbacks.cc:1515
 #: ../src/callbacks.cc:23348
@@ -1017,7 +1019,7 @@ msgstr "Razširi"
 
 #: ../data/main.ui.h:51
 msgid "Apply partial fraction decomposition to the current result."
-msgstr ""
+msgstr "Uporabi parcialno dekompozicijo ulomkov v trenutnem rezultatu"
 
 #: ../data/main.ui.h:52 ../src/interface.cc:758
 msgid "Expand Partial Fractions"
@@ -1025,7 +1027,7 @@ msgstr "Razširi parcialne ulomke"
 
 #: ../data/main.ui.h:53
 msgid "Set Unknowns…"
-msgstr "Nastavi neznane..."
+msgstr "Nastavi neznanke..."
 
 #: ../data/main.ui.h:54
 msgid "Convert to Unit"
@@ -1037,7 +1039,7 @@ msgstr "Nastavi predpono"
 
 #: ../data/main.ui.h:56
 msgid "Convert to Unit Expression…"
-msgstr ""
+msgstr "Pretvori v enoto izraza..."
 
 #: ../data/main.ui.h:57
 msgid "Convert to Base Units"
@@ -1081,7 +1083,7 @@ msgstr "Številska osnova"
 
 #: ../data/main.ui.h:67
 msgid "Select Result and Expression Base…"
-msgstr "Nastavi rezultat in osnovo izraza"
+msgstr "Nastavi rezultat in osnovo izraza..."
 
 #: ../data/main.ui.h:68 ../data/nbases.ui.h:4 ../data/setbase.ui.h:3
 #: ../src/interface.cc:1019 ../src/callbacks.cc:15505 ../src/callbacks.cc:22885
@@ -1143,7 +1145,7 @@ msgstr "Inženirski"
 
 #: ../data/main.ui.h:80
 msgid "Scientific"
-msgstr "Znanstevi"
+msgstr "Znanstveni"
 
 #: ../data/main.ui.h:81
 msgid "Purely Scientific"
@@ -1158,10 +1160,12 @@ msgid ""
 "Off: 1/7 ≈ 0.14285714\n"
 "On: 1/7 = 0.142857 142857..."
 msgstr ""
+"Izklopljeno: 1/7 ≈ 0.14285714\n"
+"Vklopljeno: 1/7 = 0.142857 142857..."
 
 #: ../data/main.ui.h:85
 msgid "Indicate Repeating Decimals"
-msgstr ""
+msgstr "Navedi ponavljajoče se decimalke"
 
 #: ../data/main.ui.h:86
 msgid "Show Ending Zeroes"
@@ -1172,16 +1176,20 @@ msgid ""
 "Off: 2.5 ≈ 3,  1.5 ≈ 2\n"
 "On: 2.5 ≈ 2, 1.5 ≈ 2"
 msgstr ""
+"Izklopljeno: 2.5 ≈ 3,  1.5 ≈ 2\n"
+"Vklopljeno: 2.5 ≈ 2, 1.5 ≈ 2"
 
 #: ../data/main.ui.h:89
 msgid "Round Halfway Numbers to Even"
-msgstr ""
+msgstr "Zaokroži polovična števila na soda"
 
 #: ../data/main.ui.h:90
 msgid ""
 "Off: 1/x\n"
 "On: x^(-1)"
 msgstr ""
+"Izklopljeno: 1/x\n"
+"Vklopljeno: x^(-1)"
 
 #: ../data/main.ui.h:92
 msgid "Negative Exponents"
@@ -1192,10 +1200,12 @@ msgid ""
 "Off: -x + y\n"
 "On: y - x"
 msgstr ""
+"Izklopljeno: -x + y\n"
+"Vklopljeno: y - x"
 
 #: ../data/main.ui.h:95
 msgid "Sort Minus Last"
-msgstr ""
+msgstr "Minuse razvrsti na koncu"
 
 #: ../data/main.ui.h:96
 msgid "Complex Rectangular Form"
@@ -1274,10 +1284,12 @@ msgid ""
 "Calculates an interval of possible values and keeps track of precision "
 "changes. "
 msgstr ""
+"Izračuna interval možnih vrednosti in si zapomni spremembe natančnosti"
+" vmesnih korakov."
 
 #: ../data/main.ui.h:115
 msgid "Significant Digits"
-msgstr ""
+msgstr "Pomembne števke"
 
 #: ../data/main.ui.h:116 ../src/interface.cc:975
 msgid "Interval"
@@ -1289,7 +1301,7 @@ msgstr "Plus/minus"
 
 #: ../data/main.ui.h:118
 msgid "Midpoint"
-msgstr ""
+msgstr "Sredina"
 
 #: ../data/main.ui.h:119
 msgid "Unit Display"
@@ -1319,7 +1331,7 @@ msgstr "Uporabi predpone za vse enote"
 msgid ""
 "Enables automatic use of hekto, deka, deci and centi when prefixes is enabled"
 msgstr ""
-"Omogoči samodejno uporabo hekta, deka, deci in centi, ko so predpone"
+"Omogoči samodejno uporabo besed hekta, deka, deci in centi, ko so predpone"
 " vklopljene."
 
 #: ../data/main.ui.h:126
@@ -1330,7 +1342,7 @@ msgstr "Omogoči vse predpone SI"
 msgid ""
 "Enables automatic setting of prefix for denominator in addition to the "
 "numerator"
-msgstr ""
+msgstr "Omogoči samodejno dodajanje predpon tudi imenovalcu, ne le števcu"
 
 #: ../data/main.ui.h:128
 msgid "Enable Denominator Prefixes"
@@ -1388,7 +1400,7 @@ msgstr "Enote"
 
 #: ../data/main.ui.h:143
 msgid "Unknowns"
-msgstr "Neznani"
+msgstr "Neznanke"
 
 #: ../data/main.ui.h:144
 msgid "Units in Physical Constants"
@@ -1396,7 +1408,7 @@ msgstr "Enote v fizikalnih konstantah"
 
 #: ../data/main.ui.h:145
 msgid "If not enabled, treats all variables as unknown"
-msgstr "Obravnavaj vse spremenljivke kot neznane, če ni omogočeno"
+msgstr "Obravnavaj vse spremenljivke kot neznane, če onemogočeno"
 
 #: ../data/main.ui.h:146
 msgid "Calculate Variables"
@@ -1436,23 +1448,23 @@ msgstr "Izračunaj približek"
 
 #: ../data/main.ui.h:155
 msgid "Interval Arithmetic"
-msgstr ""
+msgstr "Intervalna aritmetika"
 
 #: ../data/main.ui.h:156
 msgid "Interval Calculation"
-msgstr ""
+msgstr "Izračun intervala"
 
 #: ../data/main.ui.h:157
 msgid "Variance Formula"
-msgstr ""
+msgstr "Enačba za varianco"
 
 #: ../data/main.ui.h:158
 msgid "Change angle unit used in trigonometric functions"
-msgstr ""
+msgstr "Spremeni kotne enote v trigonometričnih funkcijah"
 
 #: ../data/main.ui.h:159
 msgid "Angle Unit"
-msgstr "Enote kotov"
+msgstr "Kotne enote"
 
 #: ../data/main.ui.h:160 ../data/plot.ui.h:27
 msgid "None"
@@ -1472,7 +1484,7 @@ msgstr "Predpostavi, da so neznani imenovalci neničelni"
 
 #: ../data/main.ui.h:164
 msgid "Non-Zero Denominators"
-msgstr "Neničeli imenovalci"
+msgstr "Neničelni imenovalci"
 
 #: ../data/main.ui.h:165
 msgid "Warn when unknown denominators are assumed non-zero"
@@ -1484,7 +1496,7 @@ msgstr "Opozori o neničelnih imenovalcih"
 
 #: ../data/main.ui.h:167 ../src/callbacks.cc:15493
 msgid "Parsing Mode"
-msgstr ""
+msgstr "Način obdelave"
 
 #: ../data/main.ui.h:168
 msgid ""
@@ -1498,7 +1510,7 @@ msgstr ""
 
 #: ../data/main.ui.h:171
 msgid "Adaptive parsing"
-msgstr ""
+msgstr "Prilagodljiva obdelava"
 
 #: ../data/main.ui.h:172
 msgid "1/2 x = 1/(2*x)"
@@ -1506,7 +1518,7 @@ msgstr "1/2 x = 1/(2*x)"
 
 #: ../data/main.ui.h:173
 msgid "Parse Implicit Multiplication First"
-msgstr ""
+msgstr "Sprva obdelaj implicitno množenje"
 
 #: ../data/main.ui.h:174
 msgid "1/2x = 1/2*x"
@@ -1514,7 +1526,7 @@ msgstr "1/2x = 1/2*x"
 
 #: ../data/main.ui.h:175
 msgid "Conventional Parsing"
-msgstr ""
+msgstr "Običajna obdelava"
 
 #: ../data/main.ui.h:176
 msgid ""
@@ -1526,7 +1538,7 @@ msgstr ""
 
 #: ../data/main.ui.h:178
 msgid "Limit Implicit Multiplication"
-msgstr ""
+msgstr "Omejitev implicitnega množenja"
 
 #: ../data/main.ui.h:179
 msgid ""
@@ -1536,6 +1548,10 @@ msgid ""
 "Off: 1.1 * 1.1 = 1.21\n"
 "On: 1.1 * 1.1 ≈ 1.2"
 msgstr ""
+"Obdelaj decimalna števila kot približke z natančnostjo, enako številu števk.\n"
+"\n"
+"Izklopljeno: 1.1 * 1.1 = 1.21\n"
+"Vklopljeno: 1.1 * 1.1 ≈ 1.2"
 
 #: ../data/main.ui.h:183
 msgid "Read Precision"
@@ -1619,7 +1635,7 @@ msgstr "="
 
 #: ../data/main.ui.h:204
 msgid "Restore the window"
-msgstr ""
+msgstr "Obnovi okno"
 
 #: ../data/main.ui.h:205
 msgid "_Keypad"
@@ -1630,6 +1646,8 @@ msgid ""
 "Toogles persistent keypad (makes it possible to show keypad and history "
 "simultaneously)"
 msgstr ""
+"Prikaže/skrije stalno tipkovnico (omogoči hkraten prikaz tipkovnice in"
+" zgodovine)"
 
 #: ../data/main.ui.h:207
 msgid "_History"
@@ -1683,11 +1701,11 @@ msgstr "Zdeli izbrane vrednosti"
 
 #: ../data/main.ui.h:220
 msgid "Raise to the power of the selected value"
-msgstr ""
+msgstr "Potenciraj na potenco izbrane vrednosti"
 
 #: ../data/main.ui.h:221
 msgid "Calculate the square root of the selected value"
-msgstr "Izračunaj kvadraten koren izbranih vrednosti"
+msgstr "Izračunaj kvadratni koren izbranih vrednosti"
 
 #: ../data/main.ui.h:222 ../src/interface.cc:1507
 msgid "History"
@@ -1712,7 +1730,7 @@ msgstr "Zdeli drugo vrednost od vrhnje"
 
 #: ../data/main.ui.h:227
 msgid "Raise the second value to the power of the top value"
-msgstr ""
+msgstr "Potenciraj drugo vrednost na potenco vrhnje"
 
 #: ../data/main.ui.h:228
 msgid "Negate the top value (Ctrl+-)"
@@ -1724,7 +1742,7 @@ msgstr "Inverz vrhnje vrednosti"
 
 #: ../data/main.ui.h:230
 msgid "Calculate the square root of the top value"
-msgstr "Izračunaj kvadraten koren vrhnje vrednosti"
+msgstr "Izračunaj kvadratni koren vrhnje vrednosti"
 
 #: ../data/main.ui.h:231
 msgid "Calculate the sum of all values"
@@ -1732,28 +1750,29 @@ msgstr "Izračunaj seštevek vseh vrednosti"
 
 #: ../data/main.ui.h:232 ../src/callbacks.cc:5583
 msgid "Rotate the stack or move selected register up"
-msgstr ""
+msgstr "Zavrti sklad ali premakni izbran register gor"
 
 #: ../data/main.ui.h:233 ../src/callbacks.cc:5591
 msgid "Rotate the stack or move selected register down"
-msgstr ""
+msgstr "Zavrti sklad ali premakni izbran register dol"
 
 #: ../data/main.ui.h:234 ../src/callbacks.cc:5599
 msgid ""
 "Swap the to top values or move the selected value to the top of the stack"
 msgstr ""
+"Izmenjaj vrhnji dve vrednosti ali premakni izbrano vrednost na vrh sklada"
 
 #: ../data/main.ui.h:235 ../src/callbacks.cc:5607
 msgid "Copy the the selected or top value to the top of the stack"
-msgstr ""
+msgstr "Kopiraj izbrano ali vrhnjo vrednost na vrh sklada"
 
 #: ../data/main.ui.h:236 ../src/callbacks.cc:5615
 msgid "Enter the top value from before the last numeric operation"
-msgstr ""
+msgstr "Vnesi vrhnjo vrednost na mesto pred zadnjo številsko operacijo"
 
 #: ../data/main.ui.h:237 ../src/callbacks.cc:5623
 msgid "Delete the top or selected value"
-msgstr ""
+msgstr "Izbriši vrhnjo ali izbrano vrednost"
 
 #: ../data/main.ui.h:238
 msgid "Edit the selected value"
@@ -1780,6 +1799,8 @@ msgid ""
 "Automatically convert result to the current unit expression as long as the "
 "conversion box is visible."
 msgstr ""
+"Samodejno pretvori rezultat v trenutno enoto izraza, doker je viden obrazec"
+" za pretvorbo."
 
 #: ../data/main.ui.h:246
 msgid "Add prefix"
@@ -1791,6 +1812,9 @@ msgid ""
 "\n"
 "This can be overridden by prepending the unit expression with \"?\" or \"0\"."
 msgstr ""
+"Če enota izraza ne vsebuje predpon, dodaj najustreznejšo.\n"
+"\n"
+"To operacijo lahko prekličete s predponama \"?\" ali \"0\" pred izrazom."
 
 #: ../data/main.ui.h:250
 msgid "Conversion"
@@ -1864,7 +1888,7 @@ msgstr "AC"
 
 #: ../data/main.ui.h:267
 msgid "Cycle through previous expression"
-msgstr ""
+msgstr "Kroži med prejšnjimi izrazi"
 
 #: ../data/main.ui.h:268 ../src/interface.cc:969
 msgid "Previous result"
@@ -1920,7 +1944,7 @@ msgstr "mod"
 
 #: ../data/main.ui.h:282
 msgid "mean"
-msgstr ""
+msgstr "srednja vrednost"
 
 #: ../data/main.ui.h:283 ../src/interface.cc:1024
 msgid "Store result as a variable"
@@ -1958,7 +1982,7 @@ msgstr "v"
 
 #: ../data/main.ui.h:291
 msgid "Kilogram"
-msgstr "kilogram"
+msgstr "Kilogram"
 
 #: ../data/main.ui.h:292
 msgid "Two's complement input"
@@ -1972,7 +1996,7 @@ msgstr "Izhod dvojiškega komplementa"
 #: ../src/interface.cc:961 ../src/interface.cc:1026 ../src/interface.cc:1027
 #: ../src/callbacks.cc:18399 ../src/callbacks.cc:18400
 msgid "Bitwise Exclusive OR"
-msgstr "Logični ekskluzivni ALI"
+msgstr "Logični ekskluzivni OR"
 
 #: ../data/main.ui.h:295 ../data/nbases.ui.h:31 ../src/interface.cc:630
 msgid "Bitwise Left Shift"
@@ -1992,7 +2016,7 @@ msgstr "Dodaj v izraz"
 
 #: ../data/main.ui.h:299
 msgid "Persistent Keypad"
-msgstr ""
+msgstr "Stalna tipkovnica"
 
 #: ../data/main.ui.h:300
 msgid "Edit"
@@ -2056,7 +2080,7 @@ msgstr "_Kopiraj"
 
 #: ../data/main.ui.h:315
 msgid "_Store…"
-msgstr "_Shrani"
+msgstr "_Shrani..."
 
 #: ../data/main.ui.h:316
 msgid "Save Image…"
@@ -2232,7 +2256,7 @@ msgstr "Stolpci"
 
 #: ../data/matrix.ui.h:9 ../data/matrixedit.ui.h:17
 msgid "Number of columns in this matrix (columns displayed for vectors)"
-msgstr "Število stolpcev v matriki (za vektorje)"
+msgstr "Število stolpcev v matriki (prikazane za vektorje)"
 
 #: ../data/matrix.ui.h:10 ../data/matrixedit.ui.h:19
 msgid "If this is a matrix or vector"
@@ -2353,7 +2377,7 @@ msgstr "ROM"
 #: ../data/nbases.ui.h:19
 msgctxt "Keypad"
 msgid "Add"
-msgstr "Dodaj"
+msgstr "Prištej"
 
 #: ../data/nbases.ui.h:20 ../src/interface.cc:964
 msgid "Subtract"
@@ -2370,22 +2394,24 @@ msgstr "Zdeli"
 #: ../data/nbases.ui.h:23 ../src/interface.cc:632 ../src/interface.cc:962
 #: ../src/interface.cc:1015
 msgid "Bitwise AND"
-msgstr "Bitni IN"
+msgstr "Bitni AND"
 
 #: ../data/nbases.ui.h:24 ../src/interface.cc:633 ../src/interface.cc:964
 #: ../src/interface.cc:1016
 msgid "Bitwise OR"
-msgstr "Bitni ALI"
+msgstr "Bitni OR"
 
 #: ../data/nbases.ui.h:26 ../src/interface.cc:635 ../src/interface.cc:1017
 msgid "Bitwise NOT"
-msgstr "Bitni NE"
+msgstr "Bitni NOT"
 
 #: ../data/percentage.ui.h:1
 msgid ""
 "Enter two values, of which at most one is a percentage, and the others will "
 "be calculated for you."
 msgstr ""
+"Vnesite dve vrednosti, kjer je vsaj ena v odstotkih. Druge bodo izračunane"
+" samodejno."
 
 #: ../data/percentage.ui.h:2
 msgid "Percentage"
@@ -2401,7 +2427,7 @@ msgstr "Vrednost 1"
 
 #: ../data/percentage.ui.h:7
 msgid "2 compared to 1"
-msgstr "2 primerjana z 1"
+msgstr "2 v primerjavi z 1"
 
 #: ../data/percentage.ui.h:8
 msgid "Change from 1 to 2"
@@ -2413,7 +2439,7 @@ msgstr "Vrednost 2"
 
 #: ../data/percentage.ui.h:10
 msgid "1 compared to 2"
-msgstr "1 primerjana z 2"
+msgstr "1 v primerjavi z 2"
 
 #: ../data/percentage.ui.h:11
 msgid "Change from 2 to 1"
@@ -2438,11 +2464,11 @@ msgstr "Vektor/matrika"
 
 #: ../data/plot.ui.h:11
 msgid "Paired matrix"
-msgstr ""
+msgstr "Parna matrika"
 
 #: ../data/plot.ui.h:13
 msgid "if you want to split matrix in rows instead of columns"
-msgstr ""
+msgstr "Če želite razdeliti matriko po vrsticah namesto po stolpcih"
 
 #: ../data/plot.ui.h:14
 msgid "X variable"
@@ -2486,7 +2512,7 @@ msgstr "Koraki"
 
 #: ../data/plot.ui.h:24
 msgid "Candlesticks"
-msgstr ""
+msgstr "Sveče"
 
 #: ../data/plot.ui.h:25
 msgid "Dots"
@@ -2502,7 +2528,7 @@ msgstr "Monotonsko"
 
 #: ../data/plot.ui.h:29
 msgid "Natural cubic splines"
-msgstr ""
+msgstr "Naravni kubični zlepek"
 
 #: ../data/plot.ui.h:30
 msgid "Bezier"
@@ -2649,6 +2675,8 @@ msgid ""
 "The number of significant digits to display/calculate (simple arithmetics "
 "are always calculated exact)"
 msgstr ""
+"Prikazano število pomembnih števk (preprosti aritmetični izračuni so vedno"
+" točni)"
 
 #: ../data/preferences.ui.h:1
 msgid "Preferences"
@@ -2660,7 +2688,7 @@ msgstr "Način shranjevanja ob izhodu"
 
 #: ../data/preferences.ui.h:4
 msgid "If the mode of the calculator shall be restored"
-msgstr ""
+msgstr "Naj se način računala ohrani"
 
 #: ../data/preferences.ui.h:5
 msgid "Save definitions on exit"
@@ -2669,7 +2697,7 @@ msgstr "Shrani definicije ob izhodu"
 #: ../data/preferences.ui.h:6
 msgid ""
 "If changes to functions, units and variables shall be saved automatically"
-msgstr ""
+msgstr "Naj se spremembe funkcij, enot in spremenljivk shranijo samodejno"
 
 #: ../data/preferences.ui.h:7
 msgid "Clear history on exit"
@@ -2685,7 +2713,7 @@ msgstr "Omogoči simbole Unicode"
 
 #: ../data/preferences.ui.h:10
 msgid "Disable this if you have problems with some fancy characters"
-msgstr ""
+msgstr "Onemogočite, če imate težave z nestandardnimi znaki"
 
 #: ../data/preferences.ui.h:11
 msgid "Notify when a new version is available"
@@ -2703,6 +2731,10 @@ msgid ""
 "Note that only the mode, history and definitions of the last closed instance "
 "will be saved."
 msgstr ""
+"Dovoli, da je več oken računala odprtih naenkrat.\n"
+"\n"
+"Vedite, da se bodo shranili le način, zgodovina in definicije zadnjega"
+" zaprtega računala."
 
 #: ../data/preferences.ui.h:16
 msgid "Use dark theme"
@@ -2744,33 +2776,35 @@ msgstr "Prikaži stanje izraza"
 msgid ""
 "If as-you-type expression status shall be displayed below the expression "
 "entry"
-msgstr ""
+msgstr "Naj se med vpisovanjem pod izrazom prikazuje njegovo stanje"
 
 #: ../data/preferences.ui.h:26
 msgid "Persistent keypad"
-msgstr ""
+msgstr "Stalna tipkovnica"
 
 #: ../data/preferences.ui.h:27
 msgid "Use keyboard keys for RPN"
-msgstr ""
+msgstr "Uporabi tipkovnične tipke za RPN"
 
 #: ../data/preferences.ui.h:28
 msgid "Use keyboard operator keys for RPN operations (+-*/^)."
-msgstr ""
+msgstr "Uporabi tipkovnične tipke za operacije RPN (+-*/^)."
 
 #: ../data/preferences.ui.h:29
 msgid "Use caret for bitwise XOR"
-msgstr ""
+msgstr "Uporabi strešico za bitni XOR"
 
 #: ../data/preferences.ui.h:30
 msgid ""
 "Input XOR (⊻) using caret (^) on keyboard (otherwise use Ctrl+^). The "
 "exponentiation operator (^) can always be input using Ctrl+*."
 msgstr ""
+"Vnesite operacijo XOR (⊻) s strešico (^) na tipkovnici (AltGr+3). Eksponentni"
+" operator (^)  je lahko vnešen kot Ctrl+*."
 
 #: ../data/preferences.ui.h:31
 msgid "Time limit for plot"
-msgstr "Časovna omejitev za graf"
+msgstr "Časovna omejitev za izris"
 
 #: ../data/preferences.ui.h:33
 msgid "Binary two's complement representation"
@@ -2779,7 +2813,7 @@ msgstr "Upodobitev binarnega dvojiškega komplementa"
 #: ../data/preferences.ui.h:34
 msgid ""
 "If two's complement representation shall be used for negative binary numbers."
-msgstr ""
+msgstr "Naj se dvojiški komplement uporabi za negativna dvojiška števila."
 
 #: ../data/preferences.ui.h:35
 msgid "Hexadecimal two's complement representation"
@@ -2789,7 +2823,7 @@ msgstr "Upodobitev šestnajstiškega dvojiškega komplementa"
 msgid ""
 "If two's complement representation shall be used for negative hexadecimal "
 "numbers."
-msgstr ""
+msgstr "Naj se dvojiški komplement uporabi za negativna šestnajstiška števila."
 
 #: ../data/preferences.ui.h:37
 msgid "Use lower case letters in non-decimal numbers"
@@ -2797,7 +2831,7 @@ msgstr "Uporabi male črke v nedesetiških številih"
 
 #: ../data/preferences.ui.h:38
 msgid "If lower case letters should be used in numbers with non-decimal base"
-msgstr ""
+msgstr "Naj se male črke uporabljajo v številih z nedesetiško osnovo"
 
 #: ../data/preferences.ui.h:39
 msgid "Alternative base prefixes"
@@ -2808,6 +2842,8 @@ msgid ""
 "If hexadecimal numbers shall be displayed with \"0x0\" and binary numbers "
 "with \"0b00\" as prefixes"
 msgstr ""
+"Naj se šestnajstiška števila prikazujejo s predpono \"0x0\" in dvojiška s"
+" \"0b00\""
 
 #: ../data/preferences.ui.h:41
 msgid "Spell out logical operators"
@@ -2815,11 +2851,11 @@ msgstr "Črkuj logične operatorje"
 
 #: ../data/preferences.ui.h:42
 msgid "If logical and/or shall be displayed as \"&&\"/\"||\" or \"and\"/\"or\""
-msgstr ""
+msgstr "Naj se logična in/ali prikažeta kot \"&&\"/\"||\" ali \"and\"/\"or\""
 
 #: ../data/preferences.ui.h:43
 msgid "If \"e\" shall be used instead of \"E\" in numbers"
-msgstr "V številih bo namesto \"E\" uporabljen \"e\""
+msgstr "Naj se v številih namesto \"E\" uporabi \"e\""
 
 #: ../data/preferences.ui.h:44
 msgid "Use E-notation instead of 10<sup><i>n</i></sup>"
@@ -2838,6 +2874,8 @@ msgid ""
 "Use 'j' (instead of 'i') as default symbol for the imaginary unit, and place "
 "it in front the imaginary part."
 msgstr ""
+"Uporabi 'j' namesto 'i' za privzet simbol imaginarne enote, ki bo postavljen"
+" pred imaginarni del števila."
 
 #: ../data/preferences.ui.h:48
 msgid "Use comma as decimal separator"
@@ -2848,6 +2886,8 @@ msgid ""
 "Allow dots, '.',  to be used as thousands separator instead of as an "
 "alternative decimal sign"
 msgstr ""
+"Dovoli, da se pika uporabi za ločilnik tisočic namesto za alternativni"
+" decimalni znak."
 
 #: ../data/preferences.ui.h:50
 msgid "Ignore comma in numbers"
@@ -2858,6 +2898,8 @@ msgid ""
 "Allow commas, ',',  to be used as thousands separator instead of as an "
 "function argument separator"
 msgstr ""
+"Dovoli, da se vejica uporabi za ločilnik tisočic namesto za ločilnik"
+" funkcijskih argumentov"
 
 #: ../data/preferences.ui.h:52
 msgid "Ignore dots in numbers"
@@ -2893,7 +2935,7 @@ msgstr "Kopiraj desetiški ločilnik"
 
 #: ../data/preferences.ui.h:60
 msgid "Deactivate to remove digit separator when copying result"
-msgstr ""
+msgstr "Onemogočite za odstranitev ločilnika števk med kopiranjem rezultata"
 
 #: ../data/preferences.ui.h:61
 msgid "Numbers & Operators"
@@ -2908,6 +2950,8 @@ msgid ""
 "Use binary, instead of decimal, prefixes by default for information units (e."
 "g. bytes)."
 msgstr ""
+"Za informacijske enote uporabi dvojiške predpone namesto desetiških (npr."
+" bajti)"
 
 #: ../data/preferences.ui.h:64
 msgid "Conversion to local currency"
@@ -2918,6 +2962,8 @@ msgid ""
 "Automatically convert to the local currency when optimal unit conversion is "
 "activated."
 msgstr ""
+"Samodejno pretvori v krajevno valuto, če je omogočena izbira najustreznejše"
+" enote za pretvrobo."
 
 #: ../data/preferences.ui.h:66
 msgid "Update exchange rates on start"
@@ -2928,6 +2974,7 @@ msgid ""
 "If current exchange rates shall be downloaded from the internet at program "
 "start"
 msgstr ""
+"Naj se trenutna menjalna razmerja prenesejo iz Interneta ob zagonu programa"
 
 #: ../data/preferences.ui.h:68
 msgid "Exchange rates updates"
@@ -2939,7 +2986,7 @@ msgstr "Enote & valute"
 
 #: ../data/preferences.ui.h:70
 msgid "Show expression completion suggestions"
-msgstr ""
+msgstr "Prikaži predloge za dopolnitev izraza"
 
 #: ../data/preferences.ui.h:71
 msgid "Search titles and countries"
@@ -2947,11 +2994,11 @@ msgstr "Išči naslove in države"
 
 #: ../data/preferences.ui.h:72
 msgid "Minimum characters"
-msgstr ""
+msgstr "Najmanj znakov"
 
 #: ../data/preferences.ui.h:73
 msgid "Popup delay (ms)"
-msgstr ""
+msgstr "Zamik prikaza pojavnega okna (ms)"
 
 #: ../data/preferences.ui.h:74
 msgid "Completion"
@@ -2974,6 +3021,8 @@ msgid ""
 "If you want to use a font other than the default in the status display below "
 "the expression entry"
 msgstr ""
+"Če želite uporabiti neprivzeto pisavo v prikazu stanja pod obrazcem za vnos"
+" izraza"
 
 #: ../data/preferences.ui.h:79
 msgid "Custom expression font"
@@ -2982,7 +3031,7 @@ msgstr "Pisava izraza"
 #: ../data/preferences.ui.h:80
 msgid ""
 "If you want to use a font other than the default in the expression entry"
-msgstr ""
+msgstr "Če želite uporabiti neprivzeto pisavo v obrazcu za vnos izraza"
 
 #: ../data/preferences.ui.h:81
 msgid "Custom result font"
@@ -2990,7 +3039,7 @@ msgstr "Pisava rezultata"
 
 #: ../data/preferences.ui.h:82
 msgid "If you want to use a font other than the default in the result display"
-msgstr ""
+msgstr "Če želite uporabiti neprivzeto pisavo v prikazu rezultata"
 
 #: ../data/preferences.ui.h:83
 msgid "Custom keypad font"
@@ -2998,7 +3047,7 @@ msgstr "Pisava tipkovnice"
 
 #: ../data/preferences.ui.h:84
 msgid "If you want to use a font other than the default in the keypad"
-msgstr ""
+msgstr "Če želite uporabiti neprivzeto pisavo na tipkovnici"
 
 #: ../data/preferences.ui.h:85
 msgid "Custom application font"
@@ -3007,7 +3056,7 @@ msgstr "Pisava programa"
 #: ../data/preferences.ui.h:86
 msgid ""
 "If you want to use a font other than the default for the whole application"
-msgstr ""
+msgstr "Če želite uporabiti neprivzeto pisavo v celotnem programu"
 
 #: ../data/preferences.ui.h:87
 msgid "Fonts"
@@ -3023,7 +3072,7 @@ msgstr "Drugo:"
 #: ../src/callbacks.cc:24146 ../src/callbacks.cc:24231
 #: ../src/callbacks.cc:24270 ../src/callbacks.cc:24278
 msgid "Bijective base-26"
-msgstr ""
+msgstr "Bijektivna osnova 26"
 
 #: ../data/setbase.ui.h:13
 msgid "<b>Result Base</b>"
@@ -3048,7 +3097,7 @@ msgstr "Napredno"
 
 #: ../data/simplefunctionedit.ui.h:4 ../data/variableedit.ui.h:4
 msgid "Accept the creation/modification of this variable"
-msgstr ""
+msgstr "Sprejmi izdelavo/urejevanje te spremenljivke"
 
 #: ../data/simplefunctionedit.ui.h:9
 msgid "x, y, z"
@@ -3057,6 +3106,7 @@ msgstr "x, y, z"
 #: ../data/simplefunctionedit.ui.h:10
 msgid "Use x, y and z for 1st, 2nd and 3rd function argument, respectively."
 msgstr ""
+"Uporabi x, y in z po vrsti za prvi, drugi in tretji funkcijski argument."
 
 #: ../data/simplefunctionedit.ui.h:11
 msgid "\\x, \\y, \\z"
@@ -3067,6 +3117,8 @@ msgid ""
 "Use \\x, \\y and \\z for 1st, 2nd and 3rd function argument, respectively. "
 "This avoids potential conflicts with variables, functions and units."
 msgstr ""
+"Uporabi \\x, \\y in \\z po vrsti za prvi, drugi in tretji funkcijski argument."
+"S tem se izognete morebitnim sporom s spremenljivkami, funkcijami in enotami."
 
 #: ../data/unitedit.ui.h:1 ../src/callbacks.cc:12382
 msgid "Edit Unit"
@@ -3074,19 +3126,19 @@ msgstr "Uredi enoto"
 
 #: ../data/unitedit.ui.h:4
 msgid "Do not create/modify this unit"
-msgstr ""
+msgstr "Ne ustvari/uredi te enote"
 
 #: ../data/unitedit.ui.h:6
 msgid "Accept the creation/modification of this unit"
-msgstr ""
+msgstr "Sprejmi izdelavo/urejevanje te enote"
 
 #: ../data/unitedit.ui.h:8
 msgid "Singular form of this unit's name"
-msgstr ""
+msgstr "Edninska oblika imena enote"
 
 #: ../data/unitedit.ui.h:11
 msgid "Title displayed in menus and in unit manager"
-msgstr ""
+msgstr "Naslov, prikazan v menijih in upravljalniku enot"
 
 #: ../data/unitedit.ui.h:12
 msgid "Hide unit"
@@ -3094,7 +3146,7 @@ msgstr "Skrij enoto"
 
 #: ../data/unitedit.ui.h:13
 msgid "If this unit shall be hidden in menus"
-msgstr ""
+msgstr "Naj enota ne bo prikazana v menijih"
 
 #: ../data/unitedit.ui.h:14
 msgid "<b>Name</b>"
@@ -3110,6 +3162,9 @@ msgid ""
 "another unit, composite units is a composition of a number of other units "
 "Base units is not defined in relation to other units."
 msgstr ""
+"Razred, kateremu enota pripada. Vzdevek enote se definira v razmerju z drugo"
+" enoto. Kompozitum enot vsebuje več drugih enot. Osnovne enote niso"
+" definirane v razmerju z drugimi enotami."
 
 #: ../data/unitedit.ui.h:17
 msgid "Base Unit"
@@ -3117,11 +3172,11 @@ msgstr "Osnovna enota"
 
 #: ../data/unitedit.ui.h:18
 msgid "Alias"
-msgstr ""
+msgstr "Vzdevek"
 
 #: ../data/unitedit.ui.h:19
 msgid "Composite Unit"
-msgstr ""
+msgstr "Kompozitum enot"
 
 #: ../data/unitedit.ui.h:21
 msgid "System"
@@ -3137,7 +3192,7 @@ msgstr "ameriški"
 
 #: ../data/unitedit.ui.h:24
 msgid "Use with prefixes by default"
-msgstr ""
+msgstr "Privzeto uporabi s predponami"
 
 #: ../data/unitedit.ui.h:25
 msgid "<b>Type</b>"
@@ -3152,6 +3207,8 @@ msgid ""
 "Unit (for alias unit) or units (for composite unit) that this unit as "
 "defined in relation to"
 msgstr ""
+"Enota (za vzdevek enote) ali enote (za njihov kompozitum), s katerimi je"
+" vzpostavljeno razmerje"
 
 #: ../data/unitedit.ui.h:28
 msgid "Exponent"
@@ -3173,6 +3230,10 @@ msgid ""
 "For non-linear relations use \\x for the factor and \\y for the exponent (e."
 "g. \"\\x + 273.15\" for the relation between degrees Celsius and Kelvin)."
 msgstr ""
+"Razmerje z osnovno enoto. Za linearno odvisnost je to le število.\n"
+"\n"
+"Za nelinearna razmerja uporabite \\x kot faktor in \\y kot eksponent (npr."
+" \"\\x + 273.15\" za razmerje med stopinjami Celzija in Kelvina)."
 
 #: ../data/unitedit.ui.h:34
 msgid "Relation is exact"
@@ -3188,7 +3249,7 @@ msgstr "Inverzno razmerje"
 
 #: ../data/unitedit.ui.h:37
 msgid "Specify for non-linear relation, for conversion back to the base unit."
-msgstr ""
+msgstr "Določite za nelinearna razmerja, za pretvorbo nazaj v osnono enoto."
 
 #: ../data/unitedit.ui.h:38
 msgid "<b>Relation</b>"
@@ -3200,6 +3261,9 @@ msgid ""
 "- The original unit will not be mixed with units with lower priority.\n"
 "- A lower value means higher priority."
 msgstr ""
+"- Se odliči, s katerimi enotami je mešana osnovna, če obstaja več možnosti.\n"
+"- Izvirna enota ne bo bila mešana z enotami nižje prioritete.\n"
+"- Nižja vrednost pomeni višjo prioriteto."
 
 #: ../data/unitedit.ui.h:42
 msgid "Priority"
@@ -3207,186 +3271,188 @@ msgstr "Prioriteta"
 
 #: ../data/unitedit.ui.h:43
 msgid "Minimum base unit number"
-msgstr ""
+msgstr "Število najmanjše osnovne enote"
 
 #: ../data/unitedit.ui.h:44
 msgid "<b>Mix with base unit</b>"
-msgstr ""
+msgstr "<b>Mešaj z osnovno enoto</b>"
 
 #: ../data/units.ui.h:4
 msgid "Create a new unit"
-msgstr ""
+msgstr "Ustvari novo enoto"
 
 #: ../data/units.ui.h:6
 msgid "Edit the selected unit"
-msgstr ""
+msgstr "Uredi izbrano enoto"
 
 #: ../data/units.ui.h:8
 msgid "Insert the selected unit into the expression entry"
-msgstr ""
+msgstr "Vstavi izbrano funkcijo v obrazec za izraz"
 
 #: ../data/units.ui.h:9
 msgid "C_onvert"
-msgstr ""
+msgstr "Pretv_ori"
 
 #: ../data/units.ui.h:10
 msgid "Convert the result to the selected unit"
-msgstr ""
+msgstr "Pretvori rezultat v izbrano enoto"
 
 #: ../data/units.ui.h:12
 msgid "Delete the selected unit"
-msgstr ""
+msgstr "Izbriši izbrano enoto"
 
 #: ../data/units.ui.h:13
 msgid "(De)activate the selected unit"
-msgstr ""
+msgstr "O(ne)mogoči izbrano enoto"
 
 #: ../data/units.ui.h:16
 msgid "_Unit"
-msgstr ""
+msgstr "_Enota"
 
 #: ../data/units.ui.h:17
 msgid "Convert between units"
-msgstr ""
+msgstr "Pretvarjaj med enotami"
 
 #: ../data/units.ui.h:19
 msgid "Conver_sion"
-msgstr ""
+msgstr "Pretvor_ba"
 
 #: ../data/units.ui.h:20
 msgid "Converted value"
-msgstr ""
+msgstr "Pretvorjena vrednost"
 
 #: ../data/units.ui.h:21
 msgid "Value to convert from"
-msgstr ""
+msgstr "Vrednost, iz katere se pretvarja"
 
 #: ../data/units.ui.h:22
 msgid "Type anywhere"
-msgstr ""
+msgstr "Pišite kamorkoli"
 
 #: ../data/unknownedit.ui.h:1 ../src/callbacks.cc:13186
 msgid "Edit Unknown Variable"
-msgstr ""
+msgstr "Uredi neznano spremenljivko"
 
 #: ../data/unknownedit.ui.h:4
 msgid "Do not create/modify this unknown variable"
-msgstr ""
+msgstr "Ne ustvari/uredi te neznane spremenljivke"
 
 #: ../data/unknownedit.ui.h:6
 msgid "Accept the creation/modification of this unknown variable"
-msgstr ""
+msgstr "Sprejmi izdelavo/urejevanje te neznane spremenljivke"
 
 #: ../data/unknownedit.ui.h:8
 msgid "Name used to reference this unknown variable in expressions"
-msgstr ""
+msgstr "Ime za klic te neznane spremenljivke v izrazih"
 
 #: ../data/unknownedit.ui.h:10
 msgid "Use custom assumptions"
-msgstr ""
+msgstr "Uporabi predpostavke po meri"
 
 #: ../data/unknownedit.ui.h:11 ../src/interface.cc:2156
 #: ../src/interface.cc:2399
 msgid "Type"
-msgstr ""
+msgstr "Vrsta"
 
 #: ../data/unknownedit.ui.h:13
 msgid "Real Number"
-msgstr ""
+msgstr "Realno število"
 
 #: ../data/unknownedit.ui.h:14
 msgid "Rational Number"
-msgstr ""
+msgstr "Racionalno število"
 
 #: ../data/unknownedit.ui.h:16
 msgid "Sign"
-msgstr ""
+msgstr "Znak"
 
 #: ../data/unknownedit.ui.h:24
 msgid "The category this unknown variable belongs to"
-msgstr ""
+msgstr "Kategorija, kateri neznana spremenljivka pripada"
 
 #: ../data/variableedit.ui.h:10
 msgid "Value of this variable (expression)"
-msgstr ""
+msgstr "Vrednost te spremenljivke (izraz)"
 
 #: ../data/variableedit.ui.h:11
 msgid "value is exact"
-msgstr ""
+msgstr "vrednost je točna"
 
 #: ../data/variableedit.ui.h:12
 msgid "If the value is precise"
-msgstr ""
+msgstr "Če je vrednost točna"
 
 #: ../data/variableedit.ui.h:14
 msgid "The category this variable belongs to"
-msgstr ""
+msgstr "Kategorija, kateri spremenljivka pripada"
 
 #: ../data/variables.ui.h:4
 msgid "Create a new variable"
-msgstr ""
+msgstr "Ustvari novo spremenljivko"
 
 #: ../data/variables.ui.h:6
 msgid "Edit the selected variable"
-msgstr ""
+msgstr "Uredi izbrano spremenljivko"
 
 #: ../data/variables.ui.h:8
 msgid "Insert the selected variable into the expression entry"
-msgstr ""
+msgstr "Vstavi izbrano spremenljivko v obrazec za izraz"
 
 #: ../data/variables.ui.h:10
 msgid "Delete the selected variable"
-msgstr ""
+msgstr "Izbriši izbrano spremenljivko"
 
 #: ../data/variables.ui.h:11
 msgid "(De)activate the selected variable"
-msgstr ""
+msgstr "O(ne)mogoči izbrano spremenljivko"
 
 #: ../data/variables.ui.h:13
 msgid "E_xport"
-msgstr ""
+msgstr "I_zvozi"
 
 #: ../data/variables.ui.h:15
 msgid "_Variable"
-msgstr ""
+msgstr "Spremenlji_vka"
 
 #: ../src/main.cc:82
 msgid "Start a new instance of the application"
-msgstr ""
+msgstr "Zaženi nov primerek programa"
 
 #: ../src/main.cc:83
 msgid "Display the application version"
-msgstr ""
+msgstr "Prikaži različico programa"
 
 #: ../src/main.cc:84
 msgid "Specify the window title"
-msgstr ""
+msgstr "Določi ime okna"
 
 #: ../src/main.cc:84
 msgid "TITLE"
-msgstr ""
+msgstr "TITLE"
 
 #: ../src/main.cc:85
 msgid "Expression to calculate"
-msgstr ""
+msgstr "Izraz za izračun"
 
 #: ../src/main.cc:85
 msgid "[EXPRESSION]"
-msgstr ""
+msgstr "[EXPRESSION]"
 
 #: ../src/main.cc:154 ../src/callbacks.cc:28675
 msgid ""
 "<span font=\"10\">Type a mathematical expression above, e.g. \"5 + 2 / 3\",\n"
 "and press the enter key.</span>"
 msgstr ""
+"<span font=\"10\">Zgoraj vpišite matematičen izraz, npr. \"5 + 2 / 3\",\n"
+"in pritisnite Enter.</span>"
 
 #: ../src/main.cc:177
 msgid "ans"
-msgstr ""
+msgstr "ans"
 
 #: ../src/main.cc:178
 msgid "Last Answer"
-msgstr ""
+msgstr "Zadnji odgovor"
 
 #: ../src/main.cc:179 ../src/callbacks.cc:425 ../src/callbacks.cc:426
 msgid "answer"
@@ -3434,11 +3500,17 @@ msgid ""
 "Do you, dispite this, want to change the default bahvior and allow multiple "
 "simultaneous instances?"
 msgstr ""
+"Privzeto je dovoljen le en primerek (eno glavno okno) %s.\n"
+"\n"
+"Če je odprtih več primerkov, se bodo shranile definicije, spremenljivke,"
+" funkcije, zgodovina ... le zadnjega okna.\n"
+"\n"
+"Želite vseeno dovoliti več primerkov programa?"
 
 #: ../src/interface.cc:610
 #, c-format
 msgid "Right-click/long press: %s"
-msgstr ""
+msgstr "Desni klik/dolg klik: %s"
 
 #: ../src/interface.cc:611
 #, c-format
@@ -3452,7 +3524,7 @@ msgstr "Srednji klik: %s"
 
 #: ../src/interface.cc:751 ../src/callbacks.cc:5482
 msgid "Set unknowns"
-msgstr "Nastavi neznane"
+msgstr "Nastavi neznanke"
 
 #. Show further items in a submenu
 #: ../src/interface.cc:815 ../src/interface.cc:917 ../src/interface.cc:920
@@ -3520,7 +3592,7 @@ msgstr "Backspace"
 
 #: ../src/interface.cc:975
 msgid "Uncertainty/interval"
-msgstr ""
+msgstr "Negotovost/interval"
 
 #: ../src/interface.cc:975
 msgid "Relative error"
@@ -3528,38 +3600,38 @@ msgstr "Relativna napaka"
 
 #: ../src/interface.cc:1015
 msgid "Logical AND"
-msgstr "Logični IN"
+msgstr "Logični AND"
 
 #: ../src/interface.cc:1016
 msgid "Logical OR"
-msgstr "Logični ALI"
+msgstr "Logični OR"
 
 #: ../src/interface.cc:1017
 msgid "Logical NOT"
-msgstr "Logični NE"
+msgstr "Logični NOT"
 
 #: ../src/interface.cc:1019 ../src/interface.cc:1020 ../src/interface.cc:1021
 #: ../src/interface.cc:1022
 msgid "Toggle Result Base"
-msgstr ""
+msgstr "Preklopi osnovo rezultata"
 
 #: ../src/interface.cc:1024
 msgid "Open menu with stored variables"
-msgstr ""
+msgstr "Odpri meni s shranjenimi spremenljivkami"
 
 #: ../src/interface.cc:1501 ../src/interface.cc:1552
 msgid "Index"
-msgstr ""
+msgstr "Indeks"
 
 #: ../src/interface.cc:1567 ../src/interface.cc:1568 ../src/callbacks.cc:11270
 #: ../src/callbacks.cc:11272
 msgid "Ent"
-msgstr ""
+msgstr "Ent"
 
 #: ../src/interface.cc:1569 ../src/interface.cc:1570 ../src/callbacks.cc:1320
 #: ../src/callbacks.cc:11271 ../src/callbacks.cc:11273
 msgid "Calculate expression and add to stack"
-msgstr ""
+msgstr "Izračunaj izraz in dodaj na sklad"
 
 #: ../src/interface.cc:1641 ../src/interface.cc:1811
 msgid "Flag"
@@ -3636,7 +3708,7 @@ msgstr "izraz"
 
 #: ../src/callbacks.cc:448
 msgid "History Parsed Expression"
-msgstr ""
+msgstr "Zgodovinsko obdelan izraz"
 
 #: ../src/callbacks.cc:471
 msgid "settitle"
@@ -3763,6 +3835,9 @@ msgid ""
 "the button to the right of the expression entry changes to reflect this. If "
 "you hold the pointer over or click the button, the message will be shown."
 msgstr ""
+"Ko se med izračunom pojavijo napake, opozorila in druge informacije, se"
+" spremeni gumb desno od izraza. Če miškin kazalec pridržite nad njem ali ga"
+" kliknete, se bo prikazalo sporočilo."
 
 #: ../src/callbacks.cc:2072
 msgid "Path of executable not found."
@@ -4177,7 +4252,7 @@ msgstr "Vnesi funkcijo"
 
 #: ../src/callbacks.cc:5465
 msgid "Insert function (dialog)"
-msgstr "Vnesi funkcijo (dialog)"
+msgstr "Vnesi funkcijo (obrazec)"
 
 #: ../src/callbacks.cc:5466
 msgid "Insert variable"
@@ -4610,7 +4685,7 @@ msgstr "Izr_ačunaj"
 
 #: ../src/callbacks.cc:11906
 msgid "Apply to Stack"
-msgstr ""
+msgstr "Premakni na sklad"
 
 #: ../src/callbacks.cc:11957
 msgid "Argument"
@@ -4773,11 +4848,11 @@ msgstr "približno"
 
 #: ../src/callbacks.cc:14253
 msgid "Edit Data Set (global)"
-msgstr "Uredi nabor podatkov (globalni)"
+msgstr "Uredi podatkovni nabor (globalni)"
 
 #: ../src/callbacks.cc:14255
 msgid "New Data Set"
-msgstr "Nov nabor podatkov"
+msgstr "Nov podatkovni nabor"
 
 #: ../src/callbacks.cc:14272
 msgid "info"
@@ -4793,7 +4868,7 @@ msgstr "Ime datoteke ni vnešeno."
 
 #: ../src/callbacks.cc:14471 ../src/callbacks.cc:14544
 msgid "No delimiter selected."
-msgstr "Razmejilnik ni izbran."
+msgstr "Ločilnik ni izbran."
 
 #: ../src/callbacks.cc:14476
 #, c-format
@@ -5179,7 +5254,7 @@ msgstr "Poliatomske nekovine"
 
 #: ../src/callbacks.cc:30134
 msgid "Diatomic Non-Metal"
-msgstr "Diatomske nekovine"
+msgstr "Dvoatomske nekovine"
 
 #: ../src/callbacks.cc:30135
 msgid "Noble Gas"
